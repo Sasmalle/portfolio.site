@@ -9,8 +9,6 @@ a{
 .contentTopnav{
     display: flex;
 }
-.contentTopnav h1{
-}
 .otherTopnav{
     display: flex;
     float: right;

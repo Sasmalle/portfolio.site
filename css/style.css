@@ -1,0 +1,17 @@
+body{
+    font-family: 'inter', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: inherit; 
+}
+.contentTopnav{
+    display: flex;
+}
+.contentTopnav h1{
+}
+.otherTopnav{
+    display: flex;
+    float: right;
+}
